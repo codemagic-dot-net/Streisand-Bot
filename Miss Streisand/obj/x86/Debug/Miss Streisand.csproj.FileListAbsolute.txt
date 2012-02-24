@@ -1,0 +1,10 @@
+C:\Users\Marcel\AppData\Local\Temporary Projects\Miss Streisand\bin\Debug\Miss Streisand.exe
+C:\Users\Marcel\AppData\Local\Temporary Projects\Miss Streisand\bin\Debug\Miss Streisand.pdb
+C:\Users\Marcel\AppData\Local\Temporary Projects\Miss Streisand\obj\x86\Debug\Miss Streisand.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\AppData\Local\Temporary Projects\Miss Streisand\obj\x86\Debug\Miss Streisand.exe
+C:\Users\Marcel\AppData\Local\Temporary Projects\Miss Streisand\obj\x86\Debug\Miss Streisand.pdb
+C:\Users\Marcel\documents\visual studio 2010\Projects\Miss Streisand\Miss Streisand\obj\x86\Debug\Miss Streisand.exe
+C:\Users\Marcel\documents\visual studio 2010\Projects\Miss Streisand\Miss Streisand\obj\x86\Debug\Miss Streisand.pdb
+C:\Users\Marcel\documents\visual studio 2010\Projects\Miss Streisand\Miss Streisand\obj\x86\Debug\Miss Streisand.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\documents\visual studio 2010\Projects\Miss Streisand\Miss Streisand\bin\Debug\Miss Streisand.exe
+C:\Users\Marcel\documents\visual studio 2010\Projects\Miss Streisand\Miss Streisand\bin\Debug\Miss Streisand.pdb
